@@ -1,6 +1,7 @@
 {% set name = "yfinance" %}
 {% set version = "0.1.58" %}
 
+# Add a comment for package
 package:
   name: "{{ name|lower }}"
   version: "{{ version }}"
