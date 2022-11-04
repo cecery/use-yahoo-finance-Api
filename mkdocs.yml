@@ -8,6 +8,8 @@
 # - search
 # - mkdocstrings
 
+# add a line
+
 # nav:
 #   - Introduction: 'index.md'
 #   - Installation: 'installation.md'
